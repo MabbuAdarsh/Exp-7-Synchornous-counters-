@@ -32,7 +32,7 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
 
 Four-bit “Up” Counter
-![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
+![Screenshot 2023-11-26 171521](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/e5c7d2a0-1cf2-4c05-9ba0-0910d3fbd705)
 
 
 
@@ -41,12 +41,15 @@ Four-bit “Up” Counter
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
-![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
+![Screenshot 2023-11-26 171915](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/f4dc52ee-11e2-453a-b6d3-2da51f179c13)
 
 
 4-bit Count Down Counter
 ### Procedure
 /* write all the steps invloved */
+![Screenshot 2023-11-26 171804](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/5784dd8a-c6ba-499d-9b74-b87e7b56db66)
+
+![Screenshot 2023-11-26 172417](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/d2fdf318-29b6-4d2c-83d8-461447188958)
 
 
 
@@ -74,15 +77,19 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+![Screenshot 2023-11-26 171402](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/49c942c9-83d7-4aff-b98b-bcb23d0a724c)
 
+![Screenshot 2023-11-26 171857](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/39c86d7f-eecf-4e79-97a9-badddcf031e5)
 
 
 
 ### TRUTH TABLE 
 
+![OIP](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/78b7879c-0af1-415b-9bbe-5e1983527f98)
 
 
 
+![OIP](https://github.com/MabbuAdarsh/Exp-7-Synchornous-counters-/assets/149365583/78b7879c-0af1-415b-9bbe-5e1983527f98)
 
 
 ### RESULTS 
